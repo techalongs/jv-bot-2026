@@ -1,5 +1,5 @@
-# Techalongs Robotics Camp 2026
+# Techalongs JV Bot 2026
 
-Welcome to the Techalongs Robotics Camp 2026!
+Welcome to the Techalongs JV Bot 2026!
 
-- GitHub Repo URL: https://github.com/techalongs/camp-2026.git
+- GitHub Repo URL: https://github.com/techalongs/jv-bot-2026
